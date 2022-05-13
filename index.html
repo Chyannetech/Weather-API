@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./script.js" defer></script>
+    <link rel="stylesheet" href="./style.css">
+    <title>Wellbrew</title>
+</head>
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+
+<body>
+    <header>
+        <div class="title">
+        <h1 id="heading1">Wellbrew</h1>
+        <p id="para1"> Check the weather before exploring the beautiful <span> Fort Lauderdale, Florida</span></p>
+
+        <!-- weather button -->
+        <button id="weatherButton">Check The Current Weather</button>
+        <!-- weather data -->
+    <div id="weather-info">
+        <p class="weatherInfo"></p>
+        <p class="temp"></p>
+      </div>
+    </header>
+    
+    <!-- photo slideshow -->
+    <main>
+        <div class="slideshow-container">
+            <div class="pictures">
+              <img src="img/ftlauderdale.jpg">
+            </div>
+
+            <div class="pictures">
+              <img src="img/farmers.jpg">
+            </div>
+          
+            <div class="pictures">
+                <img src="img/artwalk.jpg">
+              </div>
+
+            <div class="pictures">
+                <img src="img/veganbbq.jpeg" style=>
+            </div>
+
+        
+             <!-- Next and previous arrows on slideshow corners -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+          </div>
+        
+          <!-- two pictures of restaurants and info with link to website -->
+          <h3> BREAKFAST AND BRUNCH</h3>
+          <div class="container_row1">
+          <div class="bulegreen">
+            <img src="img/bule2.jpeg">
+            <a href="https://www.bulegreen.us/" style="color: pink"><br>BULEGREEN CAFE YARD</a>
+            <h4>Brunch all day long, Every Day | Tuesday - Sunday 9 am till 3 pm </h4>
+        </div>
+        <div class="alchemist">
+            <img src="img/alchemist2.jpeg" >
+            <a href="https://thealchemistgardencafe.com/" style="color: pink"><br>
+                THE ALCHEMIST GARDEN CAFE</a>
+            <h4>Coffee & Tea, Breakfast & Brunch, Pizza. Everyday 8 am till 4 pm</h4>
+          </div>
+          </div>
+         
+            <!-- relaxation medussa picture -->
+          <h3> RELAX AND UNWIND</h3>
+          <div class="zenmind">
+            <img src="img/zen1.jpg">
+            <a href="https://zenmindspace.com/" style="color: pink"><br>ZEN MIND SPACE</a>
+            <h4>The Mindful Studio For Your Modern Life</h4>
+        </div>
+
+            <!-- entertainment pictures  -->
+        <h3> ENTERTAINMENT</h3>
+        <div class="container_row2"></div>
+        <div class="hiddengarden">
+            <img src="img/hiddengrd.jpg">
+            <a href="https://1309elasolas.com/the-hidden-garden" style="color: pink"><br>
+                THE HIDDEN GARDEN</a>
+            <h4>Fantasy World Rooftop Bar and Lounge</h4>
+          </div>
+        <div class="lasolas">
+            <img src="img/lasolas.jpeg" >
+            <a href="https://lasolasboulevard.com/" style="color: pink"><br>
+                LAS OLAS BOULEVARD</a>
+            <h4>Fashion Boutiques, Art Galleries, Restaurants, Cafes, Bars, and more. </h4>
+          </div>
+          </div>
+
+    </main>
+    <footer>
+        <div id="footer">
+        <h4>WELLBREW 2022 | Made By Chyanne Robbins For You.</h4>
+        </div>
+    </footer>
+</body>
+</html> 
+
