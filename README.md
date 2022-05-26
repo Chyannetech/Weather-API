@@ -45,7 +45,8 @@ Wellbrew is my first attempt to create a one page website. The goal was to imple
 * Website will load a new webpage to display local time, date, weather, recomended restaurants, wellness events and activities.
 * Custom media will be applied to webpages.
 
-## Deployment [Project URL] https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/ 
+## Deployment [Project URL] 
+* https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/ 
 
 # Wellbrew
 
