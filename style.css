@@ -1,96 +1,29 @@
 body {
-    background-color: rgb(8, 30, 2);
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
+  background-image: url("https://media3.giphy.com/media/XYxfj2ix1cZwY/giphy.gif?cid=ecf05e47u41p5ugiegcybj9geocnsh76m4pi8lz5ud05f99h&rid=giphy.gif&ct=g");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
 }
 
-h3 {
-    text-align: center;
-    font-family: 'Architects Daughter', cursive;
-    background-color: rgba(106, 225, 231, 0.839);  
-}
-
-
-
-
-.title{
-    text-align: center;
-    text-transform: uppercase;
-    text-transform: ;
-    padding-top: 40px;
-    font-family: 'Architects Daughter', cursive;
+#heading1 {
+  color: rgb(214, 214, 214);
+  background-color: rgb(40, 11, 16);
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  font-family: 'Sigmar One', cursive;
 }
 
 #weatherButton {
-    border-color: pink;
-    border-width: 3px;
-}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: auto;
-  max-height: 100px
+  display: grid;
   margin: auto;
 }
 
-/* Next & previous arrow buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: rgb(50, 183, 165);
-  transition: 0.5s ease;
-}
-
-/* move the right arrow to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-
-.bulegreen {
-    width: auto;
+h5 {
     text-align: center;
-    color: yellow;
-}
-
-.alchemist {
-    width: auto;
-    text-align: center;
-    color: yellow;
-}
-
-
-
-.zenmind {
-    width: auto;
-    text-align: center;
-    color: yellow;
-    
-}
-
-.hiddengarden {
-    width: auto;
-    text-align: center;
-    color: yellow;
-    
-}
-
-.lasolas {
-    width: auto;
-    text-align: center;
-    color: yellow;
-    
-}
-
-#footer {
-    background-color: rgba(3, 55, 75, 0.774);
-    text-align: center;
+    font-family: 'Sacramento', cursive;
     padding-top: 10px;
-    padding-bottom: 10px;
-    
 }
