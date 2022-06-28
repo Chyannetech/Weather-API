@@ -1,15 +1,12 @@
 # WELLBREW 
 
-#### A web application that displays the weather in Fort Lauderdale, Florida and local activities.
-![wellbrew](img/wellbrew1.png)
-![wellbrew](img/wellbrew2.png)
-![wellbrew](img/wellbrew3.png)
-![wellbrew](img/wellbrew4.png)
+#### A web application that displays the weather in Fort Lauderdale, Florida. 
+
 
 
 
 ## Description
-Wellbrew is my first attempt to create a one page website. The goal was to implement the things that I've learned so far in my bootcamp. 
+Wellbrew is my very first attempt to create a one page website. The goal was to implement the things that I've learned so far. 
 
 ## Table of Contents
 * Technologies Used
@@ -29,23 +26,17 @@ Wellbrew is my first attempt to create a one page website. The goal was to imple
 ## Features
 * App pulls live weather information from a 3rd party API.
 * API [Open Weather API]https://openweathermap.org/current
-* Main picture displays a slideshow with 4 pictures.
-* Restaurant title links to the business pages.
 
 ## Sketches
-* Wireframe was made using Invision and is located in images folder.
-![wireframe] 
+
 
 ## Trello Planning
-* Link to Trello: [Trello] https://trello.com/b/ptDb2iqs/project-1
+
 
 
 ## Next Steps
-* Users will be able to select their city from a drop down menu.
-* Website will load a new webpage to display local time, date, weather, recomended restaurants, wellness events and activities.
-* Custom media will be applied to webpages.
+
 
 ## Deployment [Project URL] https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/ 
 
-# Wellbrew
 
