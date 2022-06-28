@@ -1,6 +1,6 @@
 # WELLBREW 
 
-#### A simple web application that displays the weather in Fort Lauderdale, Florida and local activities.
+#### A web application that displays the weather in Fort Lauderdale, Florida and local activities.
 ![wellbrew](img/wellbrew1.png)
 ![wellbrew](img/wellbrew2.png)
 ![wellbrew](img/wellbrew3.png)
@@ -34,7 +34,7 @@ Wellbrew is my first attempt to create a one page website. The goal was to imple
 
 ## Sketches
 * Wireframe was made using Invision and is located in images folder.
-![wireframe] (img/updatedwireframe.png)
+![wireframe] 
 
 ## Trello Planning
 * Link to Trello: [Trello] https://trello.com/b/ptDb2iqs/project-1
