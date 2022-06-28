@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://media3.giphy.com/media/XYxfj2ix1cZwY/giphy.gif?cid=ecf05e47u41p5ugiegcybj9geocnsh76m4pi8lz5ud05f99h&rid=giphy.gif&ct=g");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#heading1 {
+  color: rgb(214, 214, 214);
+  background-color: rgb(40, 11, 16);
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  font-family: 'Sigmar One', cursive;
+}
+
+#weatherButton {
+  display: grid;
+  margin: auto;
+}
+
+h5 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    padding-top: 10px;
+}
