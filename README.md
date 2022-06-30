@@ -1,19 +1,8 @@
 # WELLBREW 
 
-#### A web application that displays the weather in Fort Lauderdale, Florida. 
+#### Wellbrew is a simple web application that shows the current temperature in Fort Lauderdale, Florida using a third party API. 
 
-
-
-
-## Description
-Wellbrew is my very first attempt to create a one page website. The goal was to implement the things that I've learned so far. 
-
-## Table of Contents
-* Technologies Used
-* Features
-* Sketch
-* Project Next Steps
-* Deployed App
+![Wellbrew pt  1](https://user-images.githubusercontent.com/103911002/176599634-265cb9e7-ddd3-4efe-8caa-8726765fbd60.png)
 
 ## Technologies Used
 * JavaScript 
@@ -24,20 +13,20 @@ Wellbrew is my very first attempt to create a one page website. The goal was to 
 * jQuery
 
 ## Features
-* App pulls live weather information from a 3rd party API.
-* API [Open Weather API]https://openweathermap.org/current
+* App pulls live weather information from a The Open Weather API.
+* Background changes when the temperature is within certain ranges. 
 
 ## Sketches
 
 
-## Trello Planning
-
 
 
 ## Next Steps
+* Allow the background to change when the temperature is within a certain range. 
 
 
-## Deployment [Project URL] 
-* https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/ 
+## Deployment 
+Here's the link to the deployed app [Wellbrew](https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/)
+
 
 
