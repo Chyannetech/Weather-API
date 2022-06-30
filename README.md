@@ -20,7 +20,7 @@
 * Allow the background to change when the temperature is within a certain range. 
 
 ## Deployment 
-Here's the link to the deployed app [Wellbrew](https://627ffe2f9c19751c760cf46e--bright-nasturtium-8b0073.netlify.app/)
+Here's the link to the deployed app [Wellbrew](https://bright-nasturtium-8b0073.netlify.app/)
 
 
 
