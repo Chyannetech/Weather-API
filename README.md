@@ -17,8 +17,8 @@
 * Background changes when the temperature is within certain ranges. 
 
 ## Next Steps
-* Allow the background to change when the temperature is within a certain range. 
-
+* The concept of this application has grown so much since starting my bootcamp and General Assembly in April 2022. 
+* Follow the progress[Here](https://trello.com/b/b2OoGCiU/wellbrew)
 ## Deployment 
 Here's the link to the deployed app [Wellbrew](https://bright-nasturtium-8b0073.netlify.app/)
 
