@@ -17,10 +17,14 @@
 * Background changes when the temperature is within certain ranges. 
 
 ## Next Steps
-* The concept of this application has grown so much since starting my bootcamp and General Assembly in April 2022. 
-* Follow the progress[Here](https://trello.com/b/b2OoGCiU/wellbrew)
+* Replace the weather API with the USDA Farmers Market API on home page. 
+
+* The concept of Wellbrew has grown so much since starting my bootcamp at General Assembly in April 2022. I've learned a lot and will implement my ideas for this application in [Wellbrew 1.2](https://github.com/Chyannetech/Wellbrew-1.2))
+
+* Follow the progress [Here](https://trello.com/b/b2OoGCiU/wellbrew)
+
 ## Deployment 
-Here's the link to the deployed app [Wellbrew](https://bright-nasturtium-8b0073.netlify.app/)
+Here's the link to this app [Wellbrew](https://bright-nasturtium-8b0073.netlify.app/)
 
 
 
