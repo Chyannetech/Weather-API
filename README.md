@@ -19,9 +19,9 @@
 ## Next Steps
 * Replace the weather API with the USDA Farmers Market API on home page. 
 
-* The concept of Wellbrew has grown so much since starting my bootcamp at General Assembly in April 2022. I've learned a lot and will implement my ideas for this application in [Wellbrew 1.2](https://github.com/Chyannetech/Wellbrew-1.2))
-
 * Follow the progress [Here](https://trello.com/b/b2OoGCiU/wellbrew)
+
+#### The concept of Wellbrew has grown so much since starting my bootcamp at General Assembly in April 2022. I've learned so much since then and will work on implementing my ideas in [Wellbrew 1.2](https://github.com/Chyannetech/Wellbrew-1.2))
 
 ## Deployment 
 Here's the link to this app [Wellbrew](https://bright-nasturtium-8b0073.netlify.app/)
