@@ -14,7 +14,6 @@
 
 ## Features
 * App pulls live weather information from a The Open Weather API.
-* Background changes when the temperature is within certain ranges. 
 
 ## Next Steps
 * Replace the weather API with the USDA Farmers Market API on home page. 
