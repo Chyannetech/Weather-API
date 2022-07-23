@@ -15,10 +15,6 @@
 ## Features
 * App pulls live weather information from a The Open Weather API.
 
-## Next Steps
-* CSS and pull in more data
-
-
 ## Deployment 
 Here's the link to this app [Weather APP](https://bright-nasturtium-8b0073.netlify.app/)
 
